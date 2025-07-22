@@ -35,7 +35,7 @@ msgid ""
 "The resource you are attempting to provide has been disallowed by the staff."
 " Reason: "
 msgstr ""
-"رُفِضَ المَوْرِد الذي تُحاوِل تَوفِيرَه مِن قِبَل الفَريق. وذلك بِسبب:"
+"رُفِضَ المَوْرِد الذي تُحاوِل تَوفِيرَه مِن قِبَل الفَريق. وذلك بِسَبَب:"
 
 #: recommender.py:355
 msgid "The selected resource does not exist"
@@ -129,11 +129,11 @@ msgstr "السبب"
 
 #: templates/recommender.html:157
 msgid "Reason for why this resource should be removed"
-msgstr "سبب ضَرورة إزالة هذا المَوْرِد "
+msgstr "سَبَب ضَرورة إزالة هذا المَوْرِد "
 
 #: templates/recommender.html:167
 msgid "Reason for why this resource should be endorsed"
-msgstr "سبب ضَرورة اعتِماد هذا المَوْرِد "
+msgstr "سَبَب ضَرورة اعتِماد هذا المَوْرِد "
 
 #: templates/recommender.html:177
 msgid "Reason for why this resource should be flagged"
@@ -147,14 +147,6 @@ msgstr "العنوان"
 msgid "Provide a resource title, required"
 msgstr "أَدخِل عُنواناً للمَوْرِد، إِجْبارِي"
 
-#: templates/recommender.html:187 templates/recommender.html:212
-msgid ""
-"Provide a meaningful title so other students know whether this is useful to "
-"them"
-msgstr ""
-"قَدِّم عُنواناً ذا مَعنى لكي يَعرِف الطُلّاب الآخرون فيما إذا كان مُفيداً "
-"لهم"
-
 #: templates/recommender.html:189
 msgid "Location"
 msgstr "الموقع"
@@ -166,13 +158,6 @@ msgstr "قَدِّم عُنوان المَوْرِد في عُنوان الرا�
 #: templates/recommender.html:195 templates/recommender.html:220
 msgid "Description"
 msgstr "الوصف"
-
-#: templates/recommender.html:199 templates/recommender.html:224
-msgid ""
-"Provide a meaningful description so other students know whether this is "
-"useful to them"
-msgstr ""
-"قَدِّم وَصفاً ذا مَعنى لكي يَعرِف الطُلّاب الآخرون فيما إذا كان مُفيداً لهم"
 
 #: templates/recommender.html:202
 msgid "Preview screenshot:"
@@ -210,18 +195,6 @@ msgstr "نعم"
 msgid "No"
 msgstr "لا"
 
-#: templates/recommenderstudio.html:14
-msgid ""
-"Do you want to take users on a little tour when they see the "
-"RecommenderXBlock first time?"
-msgstr ""
-"هل تَوَد أنْ تأخذ المُستَخدِمين في جَولة قصيرة عِندما يَرون "
-"RecommenderXBlock لأول مَرَّة؟"
-
-#: templates/recommenderstudio.html:21
-msgid "Do you want to disable the UX functions which are under development?"
-msgstr "هل تُريد أنْ تُعَطِّل وظائِف الـUX التي لا تزال قَيْد التطوير؟"
-
 #: templates/recommenderstudio.html:36
 msgid "How many resources you want to show in each page of the resource list?"
 msgstr "كم عدد الموارد التي تريد إظهارها في كل صفحة من قائمة الموارد؟"
@@ -256,7 +229,7 @@ msgstr "عنوان المورد"
 
 #: static/js/src/cats.js:71
 msgid "Remove this resource and give the reason why you do that"
-msgstr "أَزِل هذا المَوْرِد، واذكُر سبباً لِقِيامِك بِذلك"
+msgstr "أَزِل هذا المَوْرِد، واذكُر سَبَباً لِقِيامِك بِذلك"
 
 #: static/js/src/cats.js:72
 msgid "Preview image (typically, a screenshot)"
@@ -272,7 +245,7 @@ msgstr "عُد إلى القائِمة الرئيسية"
 
 #: static/js/src/cats.js:82
 msgid "Give a meaningful reason for why this resource should be removed"
-msgstr "أَعطِ سبباً مُقنِعاً حَوْل ضَرورة إزالة هذا المَوْرِد"
+msgstr "أَعطِ سَبَباً مُقنِعاً حَوْل ضَرورة إزالة هذا المَوْرِد"
 
 #: static/js/src/cats.js:83
 msgid "Flag this resource as problematic and give your reason"
@@ -311,7 +284,7 @@ msgstr ""
 
 #: static/js/src/cats.js:94
 msgid "The reason why it is endorsed is:"
-msgstr "والسبب في اعتِماده هو:"
+msgstr "والسَبَب في اعتِماده هو:"
 
 #: static/js/src/cats.js:95
 msgid "Resource: "
@@ -356,11 +329,11 @@ msgstr "ارفَغ المَوارِد بِنَسَق JSON إلى قاعِدة ا
 
 #: static/js/src/cats.js:120
 msgid "Endorse this resource and give the reason why you do that."
-msgstr "اعتَمِد هذا المَوْرِد، واذكُر سبباً لِقِيامِك بِذلك"
+msgstr "اعتَمِد هذا المَوْرِد، واذكُر سَبَباً لِقِيامِك بِذلك"
 
 #: static/js/src/cats.js:121
 msgid "Remove this resource and give the reason why you do that."
-msgstr "أَزِل هذا المَوْرِد، واذكُر سبباً لِقِيامِك بِذلك"
+msgstr "أَزِل هذا المَوْرِد، واذكُر سَبَباً لِقِيامِك بِذلك"
 
 #: static/js/src/cats.js:157
 msgid "Hide related resources"

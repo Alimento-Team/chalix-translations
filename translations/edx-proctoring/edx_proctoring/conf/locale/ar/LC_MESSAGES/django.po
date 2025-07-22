@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: edx-proctoring\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-22 00:46+0000\n"
+"POT-Creation-Date: 2025-07-13 00:47+0000\n"
 "PO-Revision-Date: 2023-05-10 00:48+0000\n"
 "Last-Translator: Sulaiman Muthanna, 2025\n"
 "Language-Team: Arabic (https://app.transifex.com/open-edx/teams/6205/ar/)\n"
@@ -104,11 +104,6 @@ msgstr "بقي لديك  {remaining_time} "
 msgid "your course"
 msgstr "دورتك التعليمية"
 
-#: api.py:1745
-#, python-brace-format
-msgid "Proctoring Results For {course_name} {exam_name}"
-msgstr "نتائِج المُراقبة لـ {course_name} {exam_name}"
-
 #: api.py:2238
 msgid "Taking As Proctored Exam"
 msgstr "امتحان مراقب"
@@ -161,10 +156,6 @@ msgstr "مراقب"
 msgid "Is Sample Attempt"
 msgstr "هي محاولة على سبيل المثال"
 
-#: models.py:413
-msgid "Is Resumable"
-msgstr "قابِل للاستئناف"
-
 #: models.py:418
 msgid "Ready to Resume"
 msgstr "جاهَز للاستِئناف"
@@ -180,27 +171,6 @@ msgstr "الوقت الإضافي (بالدقائق)"
 #: models.py:525
 msgid "Review Policy Exception"
 msgstr "مراجعة استثناء السياسة"
-
-#: templates/common/waiting_banner.html:3
-msgid ""
-"\n"
-"        The result will be visible after <strong id=\"wait_deadline\"> Loading... </strong>\n"
-"    "
-msgstr ""
-"\n"
-"ستَظهر النتيجة بعد <strong id=\"wait_deadline\">التحميل جارٍ...</strong>"
-
-#: templates/emails/proctoring_attempt_satisfactory_email.html:5
-#: templates/emails/proctoring_attempt_submitted_email.html:5
-#: templates/emails/proctoring_attempt_unsatisfactory_email.html:5
-msgid ""
-"\n"
-"        Hello,\n"
-"    "
-msgstr ""
-"\n"
-"مرحباً،\n"
-"    "
 
 #: templates/onboarding_exam/entrance.html:5
 msgid ""
@@ -218,7 +188,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"لماذا يُعَدّ هذا مُهِماً بالنِسبة لك:"
+"لماذا يُعَد هذا مُهِم بالنِسبة لك:"
 
 #: templates/onboarding_exam/entrance.html:28
 msgid ""
@@ -239,9 +209,9 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-"بِمُجَرَّد أنْ يُراجَع ملفُك الشخصي، ستتلقى بَريداً إلِكترونياً يَتضمن نتائِج المُراجَعة. سَيَصِل هذا البَريد الإلِكتروني مِن\n"
+"بِمُجَرَّد أنْ يُرَاجَع مَلَفُك الشخصي، سَتَتَلَقَّى بَريداً إلِكترونياً يَتَضَمَّن نَتائِج المُراجَعة. سَيَصِل هذا البَريد الإلِكتروني مِن\n"
 "<a href=\"mailto:%(learner_notification_from_email)s\">%(learner_notification_from_email)s</a>\n"
-"تَأكّد أنَ هذا البَريد الإلِكتروني قد أُضِيفَ إلى فلتر بَريدك الوارِد."
+"تَأَكَّد أنَّ هذا البَريد الإلِكتروني قد أُضِيفَ إلى فلتر بَريدك الوارِد."
 
 #: templates/onboarding_exam/entrance.html:49
 #, python-format
@@ -520,7 +490,7 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-"تَأكّد أنّك:"
+"تَأَكَّد أنَّك:"
 
 #: templates/proctored_exam/instructions.html:74
 msgid "Have a computer with a functioning webcam"
@@ -645,43 +615,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"هامّ"
-
-#: templates/proctored_exam/ready_to_start.html:18
-msgid ""
-"\n"
-"      Proctored Exam Rules\n"
-"    "
-msgstr ""
-"\n"
-"قَواعِد الامتِحانات المُراقَبة"
-
-#: templates/proctored_exam/ready_to_start.html:29
-#, python-format
-msgid ""
-"\n"
-"          %(platform_name)s Rules for Online Proctored Exams\n"
-"      "
-msgstr ""
-"\n"
-"%(platform_name)s قَواعِد الامتَحانات المُراقَبة عبر الإنترنت"
-
-#: templates/proctored_exam/ready_to_start.html:36
-msgid ""
-"\n"
-"      Additional Exam Rules\n"
-"    "
-msgstr ""
-"\n"
-"قَواعِد الامتِحانات الإضافية"
-
-#: templates/proctored_exam/ready_to_start.html:49
-msgid "Start my exam"
-msgstr "ابدَأ امتِحاني"
-
-#: templates/proctored_exam/ready_to_start.html:50
-msgid "Starting Exam"
-msgstr "بَدء الامتِحان"
+"مُهِم"
 
 #: templates/proctored_exam/ready_to_submit.html:4
 msgid ""
@@ -692,14 +626,6 @@ msgstr ""
 "\n"
 "هل أنت متأكد بأنك تريد إنهاء الامتحان المراقب الخاص بك؟"
 
-#: templates/proctored_exam/ready_to_submit.html:15
-msgid "Yes, end my proctored exam"
-msgstr "نعم، أنهِ امتِحاني المُراقَب"
-
-#: templates/proctored_exam/ready_to_submit.html:16
-msgid "Ending Exam"
-msgstr "انهاء الامتِحان"
-
 #: templates/proctored_exam/ready_to_submit.html:21
 msgid ""
 "\n"
@@ -708,34 +634,6 @@ msgid ""
 msgstr ""
 "\n"
 "لا، أود الاستمرار في العمل"
-
-#: templates/proctored_exam/rejected.html:5
-msgid ""
-"\n"
-"        Your proctoring session was reviewed, but did not pass all requirements\n"
-"      "
-msgstr ""
-"\n"
-"تَمَّت مُراجَعة جَلسَتُك المُراقَبة، ولكن لم تجتَز جميع المُتَطَلَّبات"
-
-#: templates/proctored_exam/rejected.html:13
-#, python-format
-msgid ""
-"\n"
-"        If you have questions about the status of your proctoring session results, contact %(platform_name)s Support.\n"
-"      "
-msgstr ""
-"\n"
-"إذا كانت لديك تَساؤلات عن حالة نتائِج جَلسَتِك المُراقَبة، فاتَصِل بالدَعم %(platform_name)s."
-
-#: templates/proctored_exam/rejected.html:23
-msgid ""
-"\n"
-"        If you have concerns about your proctoring session results, contact your course team.\n"
-"      "
-msgstr ""
-"\n"
-"إذا كانت لديك مَخاوُف حَوْل نتائِج جَلسَتِك المُراقَبة، فاتَصِل بِفَريق مُقَرَّرِك."
 
 #: templates/proctored_exam/submitted.html:4
 msgid ""
@@ -746,26 +644,6 @@ msgstr ""
 "\n"
 "لقد قدمت هذا الامتحان المراقب للمراجعة"
 
-#: templates/proctored_exam/submitted.html:9
-msgid "Your recorded data should now be uploaded for review."
-msgstr "يَجِب أنْ تُرفَع بيناتك المُسَجَّلة للمُراجَعة الآن."
-
-#: templates/proctored_exam/submitted.html:11
-msgid ""
-"If the proctoring software window is still open, close it now and confirm "
-"that you want to quit the application."
-msgstr ""
-"إذا كانت نافِذة برنامج المُراقَبة لا تَزال مفتوحة، فأغلِقها الآن وأكِّد "
-"أنَّك تُريد إغلاق التطبيق."
-
-#: templates/proctored_exam/submitted.html:13
-msgid ""
-"Proctoring results are usually available within 5 business days after you "
-"submit your exam."
-msgstr ""
-"عادةً ما تكون نتائِج المراقبة مُتاحة خِلال خمسة أيام عَمَل بعد تقديم "
-"اختِبارِك."
-
 #: templates/proctored_exam/submitted.html:19
 #, python-format
 msgid ""
@@ -775,15 +653,6 @@ msgid ""
 msgstr ""
 "\n"
 "إذا كان لديك أسئلة حول حالة نتائج الامتحانات، اتصل %(platform_name)s بالدعم"
-
-#: templates/proctored_exam/verified.html:5
-msgid ""
-"\n"
-"                Your proctoring session was reviewed successfully. Go to your progress page to view your exam grade.\n"
-"            "
-msgstr ""
-"\n"
-"تَمَّت مُراجَعة جَلسَتُك المُراقَبة بِنَجاح. اذهَب الى صفحة التَقَدُّم عندك لِعَرض نتيجة امتِحانك"
 
 #: templates/proctored_exam/visit_exam_content.html:5
 msgid ""
@@ -903,15 +772,6 @@ msgid ""
 msgstr ""
 "\n"
 "لا، أريد الاستمرار في العمل."
-
-#: templates/timed_exam/submitted.html:11
-msgid ""
-"\n"
-"                You have submitted your timed exam.\n"
-"            "
-msgstr ""
-"\n"
-"لقد قَدَّمتَ امتِحانك المُحَدَّد بِوَقت."
 
 #: utils.py:87
 #, python-brace-format

@@ -16,7 +16,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: edx-platform\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-22 00:34+0000\n"
+"POT-Creation-Date: 2025-07-14 00:34+0000\n"
 "PO-Revision-Date: 2023-01-26 15:39+0000\n"
 "Last-Translator: Sulaiman Muthanna, 2025\n"
 "Language-Team: Arabic (https://app.transifex.com/open-edx/teams/6205/ar/)\n"
@@ -580,10 +580,6 @@ msgstr "فَشِل"
 #: apps/course_metadata/choices.py:69
 msgid "Partially Completed"
 msgstr "مُكتَمِل جُزئِياً"
-
-#: apps/course_metadata/choices.py:70
-msgid "Errored"
-msgstr "حَدَث خطأ"
 
 #: apps/course_metadata/choices.py:74
 msgid "Honor"
@@ -1251,37 +1247,13 @@ msgid ""
 "Add the collaborator image, please make sure its dimensions are 200x100px"
 msgstr "أضف صورة المتعاون، يرجى التأكد من أن أبعادها هي 200×100 بكسل"
 
-#: apps/course_metadata/models.py:1296
-msgid "U.S. Value Per Lead"
-msgstr "القيمة الأمريكية لكل عميل مُحتمَل"
-
-#: apps/course_metadata/models.py:1297
-msgid "U.S. value per lead in U.S. dollars."
-msgstr "القيمة الأمريكية لكل عميل مُحتمَل بالدولار الأمريكي."
-
 #: apps/course_metadata/models.py:1302
 msgid "International Value Per Lead"
 msgstr "القيمة الدولية لكل عميل محتمل"
 
-#: apps/course_metadata/models.py:1303
-msgid "International value per lead in U.S. dollars."
-msgstr "القيمة الدولية لكل عميل مُحتمَل بالدولار الأمريكي."
-
-#: apps/course_metadata/models.py:1308
-msgid "U.S. Value Per Click"
-msgstr "القيمة الأمريكية لكل نقرة"
-
-#: apps/course_metadata/models.py:1309
-msgid "U.S. value per click in U.S. dollars."
-msgstr "القيمة الأمريكية لكل نقرة بالدولار الأمريكي."
-
 #: apps/course_metadata/models.py:1314
 msgid "International Value Per Click"
 msgstr "القيمة الدولية لكل نقرة"
-
-#: apps/course_metadata/models.py:1315
-msgid "International value per click in U.S. dollars."
-msgstr "القيمة الدولية لكل نقرة بالدولار الأمريكي."
 
 #: apps/course_metadata/models.py:1359
 msgid "Latitude"
@@ -1430,16 +1402,6 @@ msgstr ""
 #: apps/course_metadata/models.py:2321
 msgid "Estimated number of weeks needed to complete this course run."
 msgstr "تقدير عدد الأسابيع اللازم لإكمال تشغيل هذا المقرر."
-
-#: apps/course_metadata/models.py:2328
-msgid ""
-"A JSON dict detailing the available translations and transcriptions for this"
-" run. The dict has two keys: translation_languages and "
-"transcription_languages."
-msgstr ""
-"قاموس JSON يُوَضِّح الترجمات والتفريغات النصية المُتاحة لِهذه النُسخة مِن "
-"المُقَرَّر. يَحتوي القاموس على مِفتاحين: translation_languages و "
-"transcription_languages."
 
 #: apps/course_metadata/models.py:2335
 msgid "Total number of learners who have enrolled in this course run"
@@ -1992,10 +1954,6 @@ msgstr "المُستَخدِم الذي رَفَع المَلَف"
 msgid "Status"
 msgstr "الحالة"
 
-#: apps/course_metadata/models.py:5067
-msgid "Identifier of the celery task associated with this bulk task"
-msgstr "مُعَرَّف مُهِمة celery المُرتَبِطة بهذه المُهِمة الجَماعية"
-
 #: apps/course_metadata/salesforce.py:78
 msgid "Attempted to query Salesforce with no client for partner={}"
 msgstr "تمت محاولة البحث عن فريق المبيعات من دون عميل للشريك ={}"
@@ -2068,15 +2026,6 @@ msgstr ""
 #: apps/course_metadata/templates/course_metadata/email/course_deadline.txt:3
 msgid "Hi Course Team,"
 msgstr "مرحباً بفَريق المُقَرَّر،"
-
-#: apps/course_metadata/templates/course_metadata/email/course_deadline.html:16
-#: apps/course_metadata/templates/course_metadata/email/course_deadline.txt:16
-msgid ""
-"To ensure uninterrupted learner access and enrollment, please take one of "
-"the following actions:"
-msgstr ""
-"لِضَمان وُصول وتسجيل المُتَعَلِّم دون إنقِطاع، مِن فَضلِك قُم بأحد الإجراءات"
-" التالِية:"
 
 #: apps/course_metadata/templates/course_metadata/email/course_deadline.html:31
 #: apps/course_metadata/templates/course_metadata/email/course_deadline.txt:22

@@ -83,7 +83,7 @@
   },
   "pgn.DataTable.RowStatus.statusText": {
     "developer_comment": "A text describing how many rows is shown in the table",
-    "string": "عَرض {firstRow} - {lastRow} مِن {itemCount}."
+    "string": ""
   },
   "pgn.DataTable.SidebarFilters.title": {
     "developer_comment": "Title for the sidebar filters component",
@@ -91,7 +91,7 @@
   },
   "pgn.DataTable.paginationLabel": {
     "developer_comment": "",
-    "string": "ترقيم الصفحات في الجَدول"
+    "string": ""
   },
   "pgn.Dropzone.DefaultContent.fileSizeBetween": {
     "developer_comment": "A message shown when uploaded file's size must be in given range.",
@@ -130,12 +130,12 @@
     "string": "فتح قائمة الخيارات"
   },
   "pgn.Modal.closeButon": {
-    "developer_comment": "الاسم المُتاح لِزِر الإغلاق في النافِذة المُنبَثِقة للحِوار",
+    "developer_comment": "",
     "string": "أَغلِق"
   },
   "pgn.ProductTour.Checkpoint.bottom-position-text": {
     "developer_comment": "",
-    "string": "نهاية صفحة الخُطوة {step}"
+    "string": ""
   },
   "pgn.ProductTour.Checkpoint.page-index-text": {
     "developer_comment": "",
