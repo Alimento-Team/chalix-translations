@@ -1505,7 +1505,7 @@ msgid ""
 msgstr ""
 "Die identifiseerder vir &#39;n produkvariant. Dit word gebruik om &#39;n "
 "kursuslopie te koppel aan &#39;n produkvariant vir eksterne LOB&#39;s (bv. "
-"ExecEd &amp; Bootcamps)."
+"ExecEd& Bootcamps)."
 
 #: apps/course_metadata/models.py:2752 apps/course_metadata/models.py:2765
 msgid "Current"

@@ -1469,7 +1469,7 @@ msgid ""
 " product variant for external LOBs (i.e; ExecEd & Bootcamps)."
 msgstr ""
 "Produkta varianta identifikators. To izmanto, lai saistītu kursa izpildi ar "
-"produkta variantu ārējiem LOB (ti, ExecEd &amp; Bootcamps)."
+"produkta variantu ārējiem LOB (ti, ExecEd& Bootcamps)."
 
 #: apps/course_metadata/models.py:2752 apps/course_metadata/models.py:2765
 msgid "Current"

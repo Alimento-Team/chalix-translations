@@ -117,7 +117,11 @@ msgid "Incorrect data sent. "
 msgstr "ส่งข้อมูลไม่ถูกต้อง"
 
 #: apps/api/v1/views/course_runs.py:46
-msgid "Failed to set course run data: {}"
+msgid "Failed to set course run data: 
+
+
+
+{}"
 msgstr "การตั้งค่าข้อมูลหลักสูตรล้มเหลว: {}"
 
 #: apps/api/v1/views/course_runs.py:313
@@ -1431,7 +1435,7 @@ msgid ""
 msgstr ""
 "ตัวระบุสำหรับตัวเลือกสินค้า "
 "ใช้เพื่อเชื่อมโยงการดำเนินหลักสูตรกับตัวเลือกผลิตภัณฑ์สำหรับ LOB ภายนอก "
-"(เช่น ExecEd &amp; Bootcamps)"
+"(เช่น ExecEd& Bootcamps)"
 
 #: apps/course_metadata/models.py:2552 apps/course_metadata/models.py:2565
 msgid "Current"

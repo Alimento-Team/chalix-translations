@@ -1461,7 +1461,7 @@ msgid ""
 "The identifier for a product variant. This is used to link a course run to a"
 " product variant for external LOBs (i.e; ExecEd & Bootcamps)."
 msgstr ""
-"ఉత్పత్తి వేరియంట్ కోసం ఐడెంటిఫైయర్. ఇది బాహ్య LOBల కోసం (అంటే; ExecEd &amp; "
+"ఉత్పత్తి వేరియంట్ కోసం ఐడెంటిఫైయర్. ఇది బాహ్య LOBల కోసం (అంటే; ExecEd& "
 "Bootcamps) ప్రోడక్ట్ వేరియంట్‌కు రన్ అయ్యే కోర్సును లింక్ చేయడానికి "
 "ఉపయోగించబడుతుంది."
 

@@ -1517,7 +1517,7 @@ msgid ""
 msgstr ""
 "Το αναγνωριστικό για μια παραλλαγή προϊόντος. Αυτό χρησιμοποιείται για τη "
 "σύνδεση μιας εκτέλεσης μαθημάτων με μια παραλλαγή προϊόντος για εξωτερικά "
-"LOB (π.χ. ExecEd &amp; Bootcamps)."
+"LOB (π.χ. ExecEd& Bootcamps)."
 
 #: apps/course_metadata/models.py:2552 apps/course_metadata/models.py:2565
 msgid "Current"

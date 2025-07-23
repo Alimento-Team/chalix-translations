@@ -1405,7 +1405,7 @@ msgid ""
 " product variant for external LOBs (i.e; ExecEd & Bootcamps)."
 msgstr ""
 "המזהה של וריאנט מוצר. זה משמש לקישור קורס המופעל לגרסה של מוצר עבור LOBs "
-"חיצוניים (כלומר; ExecEd &amp; Bootcamps)."
+"חיצוניים (כלומר; ExecEd& Bootcamps)."
 
 #: apps/course_metadata/models.py:2552 apps/course_metadata/models.py:2565
 msgid "Current"

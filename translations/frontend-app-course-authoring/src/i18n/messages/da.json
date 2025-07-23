@@ -266,7 +266,7 @@
   "course-authoring.advanced-settings.sidebar.about.description-1": "Avancerede indstillinger styrer specifik kursusfunktionalitet. På denne side kan du redigere manuelle politikker, som er JSON-baserede nøgle- og værdipar, der styrer specifikke kursusindstillinger.",
   "course-authoring.advanced-settings.sidebar.about.description-2": "Alle politikker, du ændrer her, tilsidesætter alle andre oplysninger, du har defineret andre steder i Studio. Rediger ikke politikker, medmindre du er bekendt med både deres formål og syntaks.",
   "course-authoring.advanced-settings.sidebar.other.title": "Andre kursusindstillinger",
-  "course-authoring.advanced-settings.sidebar.links.schedule-and-details": "Detaljer &amp; tidsplan",
+  "course-authoring.advanced-settings.sidebar.links.schedule-and-details": "Detaljer& tidsplan",
   "course-authoring.advanced-settings.sidebar.links.grading": "Bedømmelse",
   "course-authoring.advanced-settings.sidebar.links.course-team": "Kursushold",
   "course-authoring.advanced-settings.sidebar.links.group-configurations": "Gruppe konfigurationer",

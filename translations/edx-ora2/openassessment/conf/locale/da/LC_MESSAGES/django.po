@@ -446,7 +446,7 @@ msgid ""
 "studio page."
 msgstr ""
 "Denne funktion aktiveres af indstillingen på kursusniveau. Det kan findes "
-"under kortet Open Response Assessment Settings på siden Pages &amp; "
+"under kortet Open Response Assessment Settings på siden Pages& "
 "Resources Studio."
 
 #: templates/legacy/edit/oa_edit_peer_assessment_schedule.html:5

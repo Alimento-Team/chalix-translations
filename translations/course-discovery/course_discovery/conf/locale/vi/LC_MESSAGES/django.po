@@ -162,8 +162,7 @@ msgid ""
 "Course creation was unsuccessful. The course URL slug ‘[{url_slug}]’ is "
 "already in use. Please update this field and try again."
 msgstr ""
-"Việc tạo khóa học không thành công. Sên URL khóa học &#39;[ {url_slug} "
-"]&#39; đã được sử dụng. Vui lòng cập nhật trường này và thử lại."
+"Việc tạo khóa học không thành công. Đường dẫn khoá học [ {url_slug} ] đã được sử dụng. Vui lòng cập nhật trường này và thử lại."
 
 #: apps/api/v1/views/courses.py:296
 msgid ""
@@ -179,8 +178,7 @@ msgid ""
 "Course edit was unsuccessful. The course URL slug ‘[{url_slug}]’ is already "
 "in use. Please update this field and try again."
 msgstr ""
-"Chỉnh sửa khóa học không thành công. Sên URL khóa học &#39;[ {url_slug} "
-"]&#39; đã được sử dụng. Vui lòng cập nhật trường này và thử lại."
+"Chỉnh sửa khóa học không thành công. Đường dẫn khóa học [ {url_slug} ] đã được sử dụng. Vui lòng cập nhật trường này và thử lại."
 
 #: apps/api/views.py:58
 msgid "You are not permitted to access the API documentation."
@@ -254,8 +252,8 @@ msgstr "dấu chấm phải là một trong {period_choices} ."
 #: apps/core/forms.py:26
 msgid "'rate' must be in the format defined by DRF, such as '100/hour'."
 msgstr ""
-"&#39;tốc độ&#39; phải ở định dạng do DRF xác định, chẳng hạn như "
-"&#39;100/giờ&#39;."
+"tốc độ phải ở định dạng do DRF xác định, chẳng hạn như "
+"'100/giờ'."
 
 #: apps/core/models.py:17
 msgid "Full Name"
@@ -1431,8 +1429,8 @@ msgid ""
 " in Studio via Refresh Course Metadata."
 msgstr ""
 "Liệu hoạt động này có nên bị ẩn khỏi các phản hồi API hay không. Không chỉnh"
-" sửa ở đây - giá trị này sẽ bị ghi đè bởi trường &quot;Chế độ hiển thị khóa "
-"học trong danh mục&quot; trong Studio thông qua Làm mới siêu dữ liệu khóa "
+" sửa ở đây - giá trị này sẽ bị ghi đè bởi trường \"Chế độ hiển thị khóa "
+"học trong danh mục\" trong Studio thông qua Làm mới siêu dữ liệu khóa "
 "học."
 
 #: apps/course_metadata/models.py:2358
@@ -1467,7 +1465,7 @@ msgid ""
 msgstr ""
 "Mã nhận dạng cho một mẫu mã sản phẩm. Điều này được sử dụng để liên kết một "
 "khóa học với một biến thể sản phẩm dành cho LOB bên ngoài (ví dụ: ExecEd "
-"&amp; Bootcamp)."
+"và Bootcamp)."
 
 #: apps/course_metadata/models.py:2752 apps/course_metadata/models.py:2765
 msgid "Current"
@@ -1742,11 +1740,11 @@ msgstr "Hiển thị thứ hạng cho thẻ tìm kiếm (ví dụ: “#1 in the 
 
 #: apps/course_metadata/models.py:4197
 msgid "Cost display for search card (e.g. \"$9,999\""
-msgstr "Hiển thị chi phí cho thẻ tìm kiếm (ví dụ: &quot;$9,999&quot;"
+msgstr "Hiển thị chi phí cho thẻ tìm kiếm (ví dụ: \"$9,999\""
 
 #: apps/course_metadata/models.py:4203
 msgid "Number of courses for search card (e.g. \"11 Courses\""
-msgstr "Số khóa học cho thẻ tìm kiếm (ví dụ: &quot;11 Khóa học&quot;"
+msgstr "Số khóa học cho thẻ tìm kiếm (ví dụ: \"11 Khóa học\""
 
 #: apps/course_metadata/models.py:4211
 msgid ""
@@ -1855,8 +1853,8 @@ msgid ""
 "            text is the first 750 characters of \"marketing_text\" and must be\n"
 "            valid HTML."
 msgstr ""
-"Tổng quan cấp cao về chương trình học của bằng cấp. Tóm tắt&quot;\n"
-" văn bản là 750 ký tự đầu tiên của &quot;marketing_text&quot; và phải\n"
+"Tổng quan cấp cao về chương trình học của bằng cấp. Tóm tắt\n"
+" văn bản là 750 ký tự đầu tiên của \"marketing_text\" và phải\n"
 " HTML hợp lệ."
 
 #: apps/course_metadata/models.py:4441
@@ -2217,7 +2215,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Khóa học &#39; %(course_name)s &#39; đã được edX xem xét thành công và hiện đã sẵn sàng để xuất bản. Khóa học sẽ được xuất bản trên %(course_publish_date)s .\n"
+"Khóa học ' %(course_name)s ' đã được edX xem xét thành công và hiện đã sẵn sàng để xuất bản. Khóa học sẽ được xuất bản trên %(course_publish_date)s .\n"
 " Để xem bản xem trước của Trang Giới thiệu khóa học, hãy truy cập vào đây: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
 "    "
 
@@ -2228,7 +2226,7 @@ msgid ""
 "    Course '%(course_name)s' has been successfully reviewed by edX and is now published on %(course_publish_date)s. To see live course, go here: %(course_marketing_url)s\n"
 msgstr ""
 "\n"
-"Khóa học &#39; %(course_name)s &#39; đã được edX xem xét thành công và hiện được xuất bản trên %(course_publish_date)s . Để xem khóa học trực tiếp, hãy vào đây: %(course_marketing_url)s\n"
+"Khóa học ' %(course_name)s ' đã được edX xem xét thành công và hiện được xuất bản trên %(course_publish_date)s . Để xem khóa học trực tiếp, hãy vào đây: %(course_marketing_url)s\n"
 
 #: apps/course_metadata/templates/course_metadata/email/watchers_course_url.txt:8
 #, python-format
@@ -2238,7 +2236,7 @@ msgid ""
 "    To see a preview of the Course About Page, go here: %(course_preview_url)s\n"
 msgstr ""
 "\n"
-"Khóa học &#39; %(course_name)s &#39; đã được edX xem xét thành công và hiện đã sẵn sàng để xuất bản. Khóa học sẽ được xuất bản trên %(course_publish_date)s .\n"
+"Khóa học ' %(course_name)s ' đã được edX xem xét thành công và hiện đã sẵn sàng để xuất bản. Khóa học sẽ được xuất bản trên %(course_publish_date)s .\n"
 " Để xem bản xem trước của Trang Giới thiệu khóa học, hãy truy cập vào đây: %(course_preview_url)s\n"
 
 #: apps/course_metadata/utils.py:390

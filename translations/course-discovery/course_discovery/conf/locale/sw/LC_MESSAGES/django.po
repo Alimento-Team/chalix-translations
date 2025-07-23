@@ -1467,7 +1467,7 @@ msgid ""
 " product variant for external LOBs (i.e; ExecEd & Bootcamps)."
 msgstr ""
 "Kitambulisho cha lahaja ya bidhaa. Hii inatumika kuunganisha kozi "
-"inayoendeshwa kwa lahaja ya bidhaa kwa LOB za nje (yaani; ExecEd &amp; "
+"inayoendeshwa kwa lahaja ya bidhaa kwa LOB za nje (yaani; ExecEd& "
 "Bootcamps)."
 
 #: apps/course_metadata/models.py:2552 apps/course_metadata/models.py:2565

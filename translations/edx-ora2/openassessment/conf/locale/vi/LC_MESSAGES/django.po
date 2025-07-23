@@ -45,8 +45,8 @@ msgid ""
 "Example {example_number} has an invalid option for \"{criterion_name}\": "
 "\"{option_name}\""
 msgstr ""
-"Ví dụ {example_number} có tùy chọn không hợp lệ cho &quot; {criterion_name} "
-"&quot;: &quot; {option_name} &quot;"
+"Ví dụ {example_number} có tùy chọn không hợp lệ cho \" {criterion_name} "
+"\": \" {option_name} \""
 
 #: assessment/api/student_training.py:227
 #, python-brace-format
@@ -517,7 +517,7 @@ msgstr ""
 
 #: templates/legacy/edit/oa_edit_peer_assessment.html:23
 msgid "View Options & Configuration"
-msgstr "Xem Tùy chọn &amp; Cấu hình"
+msgstr "Xem Tùy chọn& Cấu hình"
 
 #: templates/legacy/edit/oa_edit_peer_assessment.html:29
 msgid "Must Grade"
@@ -561,7 +561,7 @@ msgid ""
 msgstr ""
 "Tính năng này đang được kích hoạt bởi cài đặt cấp độ khóa học. Bạn có thể "
 "tìm thấy nó trong thẻ Cài đặt Đánh giá Phản hồi Mở trên trang Studio Trang "
-"&amp; Tài nguyên."
+"và Tài nguyên."
 
 #: templates/legacy/edit/oa_edit_peer_assessment.html:60
 msgid "Grading strategy for the peer assessment"

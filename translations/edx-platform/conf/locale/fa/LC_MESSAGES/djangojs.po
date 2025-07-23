@@ -743,7 +743,7 @@ msgstr ""
 #: cms/static/js/views/pages/container.js:431
 #: cms/static/js/views/utils/xblock_utils.js:118
 msgid "New file(s) added to Files & Uploads."
-msgstr "فایل(های) جدید به Files &amp; Uploads اضافه شد."
+msgstr "فایل(های) جدید به Files& Uploads اضافه شد."
 
 #: cms/static/js/views/course_outline.js:409
 #: cms/static/js/views/pages/container.js:433

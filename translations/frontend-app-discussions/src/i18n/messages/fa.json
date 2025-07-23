@@ -197,7 +197,7 @@
   "discussions.editor.posts.discussionHelpDescription": "بحث های دوره به شما این فرصت را می‌دهد که مکالمه را شروع کنید، سؤال بپرسید و با سایر فراگیران تعامل کنید. برای کسب اطلاعات بیشتر به پیوندهای زیر مراجعه کنید:",
   "discussions.editor.posts.discussionHelpCourseParticipation": "شرکت در گفتگوهای دوره",
   "discussions.editor.posts.discussionHelpMathExpressions": "واردکردن عبارات ریاضی در گفتگوهای دوره",
-  "discussions.editor.posts.discussionHelpTooltip": "دربارۀ MathJax &amp; LaTeX بیشتر بدانید",
+  "discussions.editor.posts.discussionHelpTooltip": "دربارۀ MathJax& LaTeX بیشتر بدانید",
   "discussions.topic.noName.label": "دسته‌بندی بی‌نام",
   "discussions.subtopic.noName.label": "زیرمجموعه بی‌نام",
   "discussions.posts.filter.showALl": "نمایش همه",

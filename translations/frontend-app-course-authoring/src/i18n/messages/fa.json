@@ -1808,7 +1808,7 @@
   "course-authoring.course-unit.paste-notification.has-conflicting-errors.button.text": "فایل ها را آپلود کنید",
   "course-authoring.course-unit.paste-notification.has-errors.title": "برخی از خطاها رخ داده‌است",
   "course-authoring.course-unit.paste-notification.has-errors.description": "فایل های مورد نیاز زیر را نمی توان به دوره اضافه کرد:",
-  "course-authoring.course-unit.paste-notification.has-new-files.title": "فایل(های) جدید به Files &amp; Uploads اضافه شد.",
+  "course-authoring.course-unit.paste-notification.has-new-files.title": "فایل(های) جدید به Files& Uploads اضافه شد.",
   "course-authoring.course-unit.paste-notification.has-new-files.description": "فایل های مورد نیاز زیر به این دوره وارد شدند:",
   "course-authoring.course-unit.paste-notification.has-new-files.button.text": "مشاهده فایل ها",
   "authoring.editorContainer.cancelConfirm.title": "",

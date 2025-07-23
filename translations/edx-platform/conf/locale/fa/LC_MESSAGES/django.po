@@ -11983,7 +11983,7 @@ msgid ""
 "Files & Uploads page. You can also set the course image on the Settings & "
 "Details page."
 msgstr ""
-"نام فایل تصویر دوره را ویرایش کنید. شما باید این فایل را در صفحه Files &amp;"
+"نام فایل تصویر دوره را ویرایش کنید. شما باید این فایل را در صفحه Files&"
 " Uploads آپلود کنید. همچنین می توانید تصویر دوره را در صفحه تنظیمات و جزئیات"
 " تنظیم کنید."
 
@@ -13105,7 +13105,7 @@ msgid ""
 "Enter the path to use for files on the Files & Uploads page. This value "
 "overrides the Studio default, c4x://."
 msgstr ""
-"مسیر مورد استفاده برای فایل‌ها را در صفحه Files &amp; Uploads وارد کنید. این"
+"مسیر مورد استفاده برای فایل‌ها را در صفحه Files& Uploads وارد کنید. این"
 " مقدار پیش‌فرض استودیو یعنی c4x:// را لغو می‌کند."
 
 #: xmodule/modulestore/inheritance.py:140
