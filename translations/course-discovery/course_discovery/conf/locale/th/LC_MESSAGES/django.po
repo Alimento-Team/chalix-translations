@@ -117,11 +117,10 @@ msgid "Incorrect data sent. "
 msgstr "ส่งข้อมูลไม่ถูกต้อง"
 
 #: apps/api/v1/views/course_runs.py:46
-msgid "Failed to set course run data: 
-
-
-
-{}"
+msgid ""
+"Failed to set course run data:\n"
+"\n"
+"{}"
 msgstr "การตั้งค่าข้อมูลหลักสูตรล้มเหลว: {}"
 
 #: apps/api/v1/views/course_runs.py:313
