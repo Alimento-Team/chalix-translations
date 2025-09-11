@@ -20601,7 +20601,7 @@ msgid "Sequence"
 msgstr "Sıralı"
 
 #: lms/templates/seq_block.html:91
-msgid "New Unit"
+msgid "Tạo Chuyên Đề"
 msgstr "Yeni Ünite"
 
 #: lms/templates/seq_block.html:97

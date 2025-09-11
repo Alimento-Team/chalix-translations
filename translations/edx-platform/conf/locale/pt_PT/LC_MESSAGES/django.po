@@ -20710,7 +20710,7 @@ msgid "Sequence"
 msgstr "Sequência"
 
 #: lms/templates/seq_block.html:91
-msgid "New Unit"
+msgid "Tạo Chuyên Đề"
 msgstr "Nova Unidade"
 
 #: lms/templates/seq_block.html:97

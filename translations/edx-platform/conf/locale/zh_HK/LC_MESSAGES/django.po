@@ -18268,7 +18268,7 @@ msgid "Completed"
 msgstr "已完成"
 
 #: lms/templates/seq_block.html:91
-msgid "New Unit"
+msgid "Tạo Chuyên Đề"
 msgstr "新單元"
 
 #: lms/templates/seq_block.html:97

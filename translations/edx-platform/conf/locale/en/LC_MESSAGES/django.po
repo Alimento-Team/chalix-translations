@@ -18581,7 +18581,7 @@ msgid "Sequence"
 msgstr ""
 
 #: lms/templates/seq_block.html:91
-msgid "New Unit"
+msgid "Tạo Chuyên Đề"
 msgstr ""
 
 #: lms/templates/seq_block.html:97

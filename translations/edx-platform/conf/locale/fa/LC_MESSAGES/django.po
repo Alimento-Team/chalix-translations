@@ -19936,7 +19936,7 @@ msgid "Sequence"
 msgstr "توالی"
 
 #: lms/templates/seq_block.html:91
-msgid "New Unit"
+msgid "Tạo Chuyên Đề"
 msgstr "واحد جدید"
 
 #: lms/templates/seq_block.html:97

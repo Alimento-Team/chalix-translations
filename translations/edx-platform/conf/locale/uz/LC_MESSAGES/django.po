@@ -20286,7 +20286,7 @@ msgid "Completed"
 msgstr "Bajarildi"
 
 #: lms/templates/seq_block.html:91
-msgid "New Unit"
+msgid "Tạo Chuyên Đề"
 msgstr "Yangi birlik"
 
 #: lms/templates/seq_block.html:97
