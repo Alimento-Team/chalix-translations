@@ -1212,7 +1212,7 @@ msgstr "bổ sung"
 #: lms/templates/ccx/schedule.underscore:13
 #: lms/templates/ccx/schedule.underscore:83
 msgid "Unit"
-msgstr "Đơn vị"
+msgstr "Chuyên Đề"
 
 #: cms/static/js/views/modals/edit_xblock.js:161
 #: cms/static/js/views/modals/preview_v2_library_changes.js:78
@@ -1647,7 +1647,7 @@ msgstr "tiểu mục"
 #: cms/static/js/views/utils/xblock_utils.js:353
 #: cms/templates/js/container-access.underscore:7
 msgid "unit"
-msgstr "đơn vị"
+msgstr "chuyên đề"
 
 #: cms/static/js/views/validation.js:22
 msgid "You've made some changes"

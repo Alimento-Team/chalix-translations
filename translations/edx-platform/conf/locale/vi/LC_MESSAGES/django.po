@@ -148,7 +148,7 @@ msgid "Chapter"
 msgstr "Chương"
 
 msgid "Unit"
-msgstr "Đơn vị"
+msgstr "Chuyên Đề"
 
 msgid "Module"
 msgstr "Module"
