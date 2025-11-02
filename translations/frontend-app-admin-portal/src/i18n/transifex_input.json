@@ -1276,5 +1276,14 @@
   "adminPortal.settings.learningPlatformTab.blackboard.authorizationInProgress.message": "Please confirm authorization through Blackboard and return to this window once complete.",
   "adminPortal.settings.learningPlatformTab.activatePage.title": "Activate your {lmsName} integration",
   "adminPortal.settings.learningPlatformTab.activatePage.successMessage": "Your {lmsName} integration has been successfully {verb} and is ready to activate!",
-  "adminPortal.settings.learningPlatformTab.activatePage.activationInstructions": "Once activated, edX For Business will begin syncing content metadata and learner activity with {lmsName}."
+  "adminPortal.settings.learningPlatformTab.activatePage.activationInstructions": "Once activated, edX For Business will begin syncing content metadata and learner activity with {lmsName}.",
+  "learningResults.filter.label.status": "Filter by status",
+  "learningResults.filter.label.year": "Filter by year",
+  "learningResults.filter.status.all": "All statuses",
+  "learningResults.filter.status.enrolled": "Enrolled",
+  "learningResults.filter.status.inProgress": "In Progress",
+  "learningResults.filter.status.failedExam": "Failed Exam",
+  "learningResults.filter.status.success": "Success",
+  "learningResults.filter.year.all": "All years",
+  "learningResults.filter.year.label": "Year {year}"
 }

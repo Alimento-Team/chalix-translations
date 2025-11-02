@@ -1304,5 +1304,14 @@
   "learning.upgradeNowButton.buttonText": "Nâng cấp ngay với {pricing}",
   "general.altText.close": "Đóng",
   "learn.navigation.course.tabs.label": "Tài liệu khóa học",
-  "learn.course.tabs.navigation.overflow.menu": "Thêm..."
+  "learn.course.tabs.navigation.overflow.menu": "Thêm...",
+  "learningResults.filter.label.status": "Lọc theo trạng thái",
+  "learningResults.filter.label.year": "Lọc theo năm",
+  "learningResults.filter.status.all": "Tất cả trạng thái",
+  "learningResults.filter.status.enrolled": "Đã ghi danh",
+  "learningResults.filter.status.inProgress": "Đang học",
+  "learningResults.filter.status.failedExam": "Thi thất bại",
+  "learningResults.filter.status.success": "Thành công",
+  "learningResults.filter.year.all": "Tất cả năm",
+  "learningResults.filter.year.label": "Năm {year}"
 }
